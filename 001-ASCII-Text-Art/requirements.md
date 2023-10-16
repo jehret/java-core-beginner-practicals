@@ -17,3 +17,8 @@ If you don't know where to start:
             System.out.
         }
     }
+
+## Tip
+Special characters like &#92; or &rdquo; for instance must be escaped (goes before) by a &#92;
+
+Example: &#92;&#92; becomes &#92;
