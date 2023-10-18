@@ -27,6 +27,7 @@ If you don't know where to start:
     }
 
 ## Tip
-To display your name vertically, consider using a loop.
-In each iteration, extract a single letter from your name and store it in a variable.
+To display your name vertically, consider printing a character per line.
+For each line, extract a single letter from your name and store it in a variable.
+Variables in Java have a type, what it the type for a character?
 Then, print the content of this variable to display the letter on a new line.
