@@ -26,5 +26,7 @@ Si vous ne savez pas par où commencer :
     }
 
 ## Astuce
-Pour écrire à la verticale, considérez l'utilisation d'une boucle.
-A chaque itération, vous pouvez extraire la lettre suivante de votre nom et la placer dans une variable. Comme une variable peut changer de valeur, vous n'avez besoin dans cet exercice que d'une seule variable. 
+Pour écrire à la verticale, vous pouvez écrire un charactère par ligne.
+A chaque ligne, vous pouvez extraire la lettre suivante de votre nom et la placer dans une variable. 
+Comme une variable peut changer de valeur, vous n'avez besoin dans cet exercice que d'une seule variable.
+Une variable en Java dispose forcément d'un type, mais quel est-il ?
