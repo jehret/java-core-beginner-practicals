@@ -1,32 +1,30 @@
-# Practical 002 - Write your name vertically
+# Exercice 002 - Ecrire à la verticale : Première variable
 
-## Goal
-By the end of this exercise, you will be able to declare and initialize a variable.
+## Objectif
+A la fin de cet exercice, vous serez capable de déclarer et initialiser une variable.
 
-## Requirements
-In this exercise, you'll use a variable to display your first name vertically on the screen, with each letter appearing on a new line. For example:
+## Expression du besoin
+Il s’agit d’écrire à l’écran votre prénom à la verticale, c’est à dire une lettre par ligne comme ci-dessous :
 
-W
-i
-l
-l
-i
+J
+e
 a
-m
+n
+n
+e
 
-You'll use a variable to store each letter one at a time.
-Then, you'll display the content of this variable line by line.
+Une variable se chargera d’accueillir successivement chacune des lettres.
+C’est bien évidemment le contenu de cette variable qu’il faudra afficher sur chaque ligne.
 
-## Template
-If you don't know where to start:
+## Modèle
+Si vous ne savez pas par où commencer :
 
     public class Vertical {
         public static void main(String[] args) {
-            letter='';
+            lettre='';
         }
     }
 
-## Tip
-To display your name vertically, consider using a loop.
-In each iteration, extract a single letter from your name and store it in a variable.
-Then, print the content of this variable to display the letter on a new line.
+## Astuce
+Pour écrire à la verticale, considérez l'utilisation d'une boucle.
+A chaque itération, vous pouvez extraire la lettre suivante de votre nom et la placer dans une variable. Comme une variable peut changer de valeur, vous n'avez besoin dans cet exercice que d'une seule variable. 

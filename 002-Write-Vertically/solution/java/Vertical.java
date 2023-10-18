@@ -1,19 +1,17 @@
 public class Vertical {
 
     public static void main(String[] args) {
-        char letter='W';
-        System.out.println(letter);
-        letter='i';
-        System.out.println(letter);
-        letter='l';
-        System.out.println(letter);
-        System.out.println(letter);
-        letter='i';
-        System.out.println(letter);
-        letter='a';
-        System.out.println(letter);
-        letter='m';
-        System.out.println(letter);
+        char lettre='J';
+        System.out.println(lettre);
+        lettre='e';
+        System.out.println(lettre);
+        lettre='a';
+        System.out.println(lettre);
+        lettre='n';
+        System.out.println(lettre);
+        System.out.println(lettre);
+        lettre='e';
+        System.out.println(lettre);
     }
 
 }

@@ -1,15 +1,15 @@
-# Practical 001 - ASCII Text Art
+# Exercice 001 - ASCII Text Art
 
-## Goal
-By the end of this exercise, you will be able to use Java to print out content in the console, including special characters.
+## Objectif
+A la fin de cet exercice, vous serez capable d'afficher du texte dans la console avec Java, y compris des charactères spéciaux.
 
-## Requirements
-Display in the console the following pattern using only the instruction `System.out.println()`:
+## Expression du besoin
+Affichez dans la console le dessin suivant, en utilisant uniquement l'instruction `System.out.println()`:
 
 ![foot-steps.png](resources/foot-steps.png)
 
-## Template
-If you don't know where to start:
+## Modèle
+Si vous ne savez pas par où commencer :
 
     public class AsciiArt {
         public static void main(String... args){
@@ -18,7 +18,7 @@ If you don't know where to start:
         }
     }
 
-## Tip
-Special characters like &#92; or &rdquo; for instance must be escaped (goes before) by a &#92;
+## Astuce
+Les caractères spéciaux tels que &#92; ou &rdquo; par exemple doivent être échappés (prefixés) par un &#92;
 
-Example: &#92;&#92; becomes &#92;
+Exemple: &#92;&#92; devient &#92;
