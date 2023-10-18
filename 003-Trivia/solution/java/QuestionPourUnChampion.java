@@ -1,22 +1,22 @@
 public class QuestionPourUnChampion {
 
     public static void main(String[] args) {
-        String answer;
-        System.out.println("What was Roland Garros' profession?");
-        answer="Aviator";
-        System.out.println(answer);
-        System.out.println("What were the names of the American missions that led the first man to the moon?");
-        answer="Apollo";
-        System.out.println(answer);
-        System.out.println("What does the chemical symbol N stand for?");
-        answer="Nitrogen";
-        System.out.println(answer);
-        System.out.println("Who wrote The Red and the Black§");
-        answer="Stendhal";
-        System.out.println(answer);
-        System.out.println("Which country is found between Italy and Liechtenstein?");
-        answer="Switzerland";
-        System.out.println(answer);
+        String reponse;
+        System.out.println("Quel était le métier de Roland Garros ?");
+        reponse="Aviateur";
+        System.out.println(reponse);
+        System.out.println("Comment se nommaient les missions américaine qui ont mené le 1er homme sur la lune ?");
+        reponse="Apollo";
+        System.out.println(reponse);
+        System.out.println("A quoi correspond le symbole chimique N ?");
+        reponse="Azote";
+        System.out.println(reponse);
+        System.out.println("Qui a écrit le Rouge et le Noir ?");
+        reponse="Stendhal";
+        System.out.println(reponse);
+        System.out.println("Quelle pays trouve t-on entre l'Italie et le Liechtenshtein ?");
+        reponse="Suisse";
+        System.out.println(reponse);
     }
 
 }
