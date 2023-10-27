@@ -4,9 +4,9 @@
 By the end of this exercise, you will be able to identify, declare, and initialize your first String variable in Java.
 
 ## Requirements
+You all know this TV game show that was started all the way back in 1972. The principle of Mastermind is pretty straightforward; the host asks a question, and you have to provide the answer.
 Well, now it's your turn to play!
 Below you'll find an incomplete code that contains only questions, a series of 5 questions to be precise.
-You must use a String variable that you will name 'answer' to successively store the answer to each question. Display the answer using System.out.println.
 The platform will not only evaluate whether your code is correct but will also give you your score, so good luck!
 
 ## Template
