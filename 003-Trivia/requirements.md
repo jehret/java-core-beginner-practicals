@@ -25,7 +25,7 @@ Si vous ne savez pas par où commencer :
         }
     }
 
-## Tip
-You can call the String variable `answer` for instance. 
-Use this variable to store the answer to each question. 
-After storing each answer, use `System.out.println(answer);` to display it on the console.
+## Astuce
+Vous pouvez nommer la variable `answer` par exemple.
+Utilisez la variable pour stocker successivement chaque réponse à chaque question. 
+Après quoi vous pourrez successivement afficher la réponse dans la console avec un `System.out.println(answer);`.
