@@ -10,13 +10,12 @@ Nous allons créer un jeu d'aventure basé sur du texte où les joueurs peuvent 
 Vous devez développer un scénario intéressant avec de multiples embranchements.
 À différents moments du jeu, les joueurs doivent se voir proposer des choix. Ces choix influencent l'orientation de l'histoire.
 
-Vous pouvez simplement proposer des choix à 2 options (genre Oui - Non) ou aller plus, comme par exemple:
-
-Inclure un système d'inventaire, où les joueurs peuvent collecter des objets ou gagner des attributs qui ont un impact sur l'issue du jeu.
-
-Introduire des événements ou des rencontres aléatoires pour ajouter de l'imprévisibilité et de l'excitation au jeu.
+- Vous pouvez simplement proposer des choix à 2 options (genre Oui - Non) ou aller plus, comme par exemple:
+- Inclure un système d'inventaire, où les joueurs peuvent collecter des objets ou gagner des attributs qui ont un impact sur l'issue du jeu. 
+- Introduire des événements ou des rencontres aléatoires pour ajouter de l'imprévisibilité et de l'excitation au jeu.
 
 **Fin de partie**
+
 Mettez en place des scénarios de fin de partie, de sorte que si les joueurs font certains mauvais choix, la partie s'arrête.
 
 Il est important de noter que le scenario n’est pas linéaire et peut également boucler selon les événements. Vous allez donc devoir construire un graph de données pour liées les étapes entre elles: https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
