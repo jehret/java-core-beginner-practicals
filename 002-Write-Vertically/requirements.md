@@ -4,18 +4,7 @@
 By the end of this exercise, you will be able to declare and initialize a variable.
 
 ## Requirements
-In this exercise, you'll use a variable to display your first name vertically on the screen, with each letter appearing on a new line. For example:
-
-W
-i
-l
-l
-i
-a
-m
-
-You'll use a variable to store each letter one at a time.
-Then, you'll display the content of this variable line by line.
+Please refer to the requirements on the platform you subscribed to.
 
 ## Template
 If you don't know where to start:
