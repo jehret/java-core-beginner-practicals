@@ -6,7 +6,7 @@ public class Birth {
         System.out.println(firstName + " " + lastName + " was born on " + day + "/" + month + "/" + year);
         firstName = "Charlie"; lastName = "Chaplin"; day = "16"; month = "04"; year = 1889;
         System.out.println(firstName + " " + lastName + " was born on " + day + "/" + month + "/" + year);
-        firstName = "Auguste"; lastName = "Renoir"; day = "03"; month = "12"; year = 1919;
+        firstName = "Auguste"; lastName = "Renoir"; day = "25"; month = "02"; year = 1841;
         System.out.println(firstName + " " + lastName + " was born on " + day + "/" + month + "/" + year);
         firstName = "Winston"; lastName = "Churchill"; day = "30"; month = "11"; year = 1874;
         System.out.println(firstName + " " + lastName + " was born on " + day + "/" + month + "/" + year);
