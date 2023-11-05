@@ -4,9 +4,7 @@
 By the end of this exercise, you will be able to use Java to print out content in the console, including special characters.
 
 ## Requirements
-Display in the console the following pattern using only the instruction `System.out.println()`:
-
-![foot-steps.png](resources/foot-steps.png)
+Please refer to the requirements on the platform you subscribed to.
 
 ## Template
 If you don't know where to start:
