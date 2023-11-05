@@ -4,9 +4,7 @@
 A la fin de cet exercice, vous serez capable d'afficher du texte dans la console avec Java, y compris des charactères spéciaux.
 
 ## Expression du besoin
-Affichez dans la console le dessin suivant, en utilisant uniquement l'instruction `System.out.println()`:
-
-![foot-steps.png](resources/foot-steps.png)
+Veuillez vous référer au sujet publié sur la plateforme de votre abonnement.
 
 ## Modèle
 Si vous ne savez pas par où commencer :
