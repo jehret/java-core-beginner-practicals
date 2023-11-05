@@ -4,17 +4,7 @@
 A la fin de cet exercice, vous serez capable de déclarer et initialiser une variable.
 
 ## Expression du besoin
-Il s’agit d’écrire à l’écran votre prénom à la verticale, c’est à dire une lettre par ligne comme ci-dessous :
-
-J
-e
-a
-n
-n
-e
-
-Une variable se chargera d’accueillir successivement chacune des lettres.
-C’est bien évidemment le contenu de cette variable qu’il faudra afficher sur chaque ligne.
+Veuillez vous référer au sujet publié sur la plateforme de votre abonnement.
 
 ## Modèle
 Si vous ne savez pas par où commencer :
