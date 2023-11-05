@@ -24,8 +24,6 @@ Use the `+` operator to concatenate these variables into a complete sentence tha
 Make sure to use an `int` type for the year and `String` types for the other variables.
 
 ## Explanations
-Solution on GitHub
-
 Declare variables for day, month, year, first name, and last name. The year should be of type int, and the rest should be of type String.
 
     int year;
