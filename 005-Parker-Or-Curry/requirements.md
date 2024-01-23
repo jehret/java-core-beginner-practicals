@@ -9,11 +9,13 @@ Veuillez vous référer au sujet publié sur la plateforme de votre abonnement.
 ## Modèle
 Si vous ne savez pas par où commencer :
 
+```java
     public class CurryOuParker {
         public static void main(String[] args) {
            
         }
     }
+```
 
 ## Astuce
 Pour comparer les tailles de Stephen Curry et de Tony Parker, vous devez d'abord convertir les deux mesures dans la même unité.

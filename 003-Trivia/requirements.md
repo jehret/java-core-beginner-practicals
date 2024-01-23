@@ -9,6 +9,7 @@ Veuillez vous référer au sujet publié sur la plateforme de votre abonnement.
 ## Modèle
 Si vous ne savez pas par où commencer :
 
+```java
     public class QuestionPourUnChampion {
 
         public static void main(String[] args) {
@@ -19,6 +20,7 @@ Si vous ne savez pas par où commencer :
             System.out.println("Quelle pays trouve t-on entre l'Italie et le Liechtenshtein ?");
         }
     }
+```
 
 ## Astuce
 Vous pouvez nommer la variable `answer` par exemple.

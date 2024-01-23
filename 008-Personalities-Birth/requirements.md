@@ -9,12 +9,14 @@ Veuillez vous référer au sujet publié sur la plateforme de votre abonnement.
 ## Modèle
 Si vous ne savez pas par où commencer :
 
-    public class Naissance {
-        public static void main(String[] args) {
-            int annee;
-            String prenom, nom, jour, mois;
-        }
+```java
+public class Naissance {
+    public static void main(String[] args) {
+        int annee;
+        String prenom, nom, jour, mois;
     }
+}
+```
 
 ## Astuce
 Pour résoudre cet exercice, vous devrez utiliser la concaténation de chaînes de caractères et des variables.
@@ -25,17 +27,22 @@ Veillez à utiliser un type `int` pour l'année et des types `String` pour les a
 ## Explications
 
 Déclarez des variables pour le jour, le mois, l'année, le prénom et le nom. L'année doit être de type int, et le reste doit être de type String.
-    
-    int annee;
-    String prenom, nom, jour, mois;
+
+```java
+int annee;
+String prenom, nom, jour, mois;
+```
 
 Attribuez les valeurs appropriées à ces variables pour chaque personne.
 
-    prenom = "Maryline" ; nom = "Monroe" ; jour = "01" ; mois = "06" ; annee = 1926 ;
-
+```java
+prenom = "Maryline" ; nom = "Monroe" ; jour = "01" ; mois = "06" ; annee = 1926 ;
+```
 
 Utilisez la concaténation de chaînes pour former la phrase.
 
-    System.out.println(prenom + " " + nom + " est né le " + jour + "/" + mois + "/" + annee) ;
+```java
+System.out.println(prenom + " " + nom + " est né le " + jour + "/" + mois + "/" + annee) ;
+```
 
 Répétez les étapes 2 et 3 pour chaque personne célèbre.

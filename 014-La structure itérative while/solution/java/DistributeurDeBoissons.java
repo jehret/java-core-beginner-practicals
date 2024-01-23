@@ -36,8 +36,8 @@ public class DistributeurDeBoissons {
         }
         System.out.println("Le nombre de pièces de 2 Euros rendues est de : "+nbPieces2Rendues);
         System.out.println("Le nombre de pièces de 1 Euro rendues est de : "+nbPieces1Rendues);
-        System.out.println("Le nombre de pièces de 0.50 Euros rendues est de : "+nbPieces50Rendues);
-        System.out.println("Le nombre de pièces de 0.20 Euros rendues est de : "+nbPieces20Rendues);
+        System.out.println("Le nombre de pièces de 0.50 Euro rendues est de : "+nbPieces50Rendues);
+        System.out.println("Le nombre de pièces de 0.20 Euro rendues est de : "+nbPieces20Rendues);
         
     }
     
