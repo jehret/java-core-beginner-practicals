@@ -9,11 +9,13 @@ Please refer to the requirements on the platform you subscribed to.
 ## Template
 If you don't know where to start:
 
-    public class Vertical {
-        public static void main(String[] args) {
-            letter='';
-        }
+```java
+public class Vertical {
+    public static void main(String[] args) {
+        letter='';
     }
+}
+```
 
 ## Tip
 To display your name vertically, consider printing a character per line.

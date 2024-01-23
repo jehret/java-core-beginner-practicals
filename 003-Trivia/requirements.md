@@ -9,16 +9,17 @@ Please refer to the requirements on the platform you subscribed to.
 ## Template
 If you don't know where to start:
 
-    public class Trivia {
-
-        public static void main(String[] args) {
-            System.out.println("What was Roland Garros' profession?");
-            System.out.println("What were the names of the American missions that led the first man to the moon?");
-            System.out.println("What does the chemical symbol N stand for?");
-            System.out.println("Who wrote The Red and the Black?");
-            System.out.println("Which country is found between Italy and Liechtenstein?");
-        }
+```java
+public class Trivia {
+    public static void main(String[] args) {
+        System.out.println("What was Roland Garros' profession?");
+        System.out.println("What were the names of the American missions that led the first man to the moon?");
+        System.out.println("What does the chemical symbol N stand for?");
+        System.out.println("Who wrote The Red and the Black?");
+        System.out.println("Which country is found between Italy and Liechtenstein?");
     }
+}
+```
 
 ## Tip
 You can call the String variable `answer` for instance. 

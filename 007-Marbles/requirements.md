@@ -9,11 +9,13 @@ Please refer to the requirements on the platform you subscribed to.
 ## Template
 If you don't know where to start:
 
-    public class Marbles {
-        public static void main(String[] args) {
-            
-        }
+```java
+public class Marbles {
+    public static void main(String[] args) {
+        
     }
+}
+```
 
 ## Tip
 To solve this exercise, you'll need to use a single integer variable to keep track of the number of marbles Louis has.

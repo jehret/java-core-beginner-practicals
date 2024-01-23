@@ -9,11 +9,13 @@ Please refer to the requirements on the platform you subscribed to.
 ## Template
 If you don't know where to start:
 
-    public class CurryOrParker {
-        public static void main(String[] args) {
-            
-        }
+```java
+public class CurryOrParker {
+    public static void main(String[] args) {
+        
     }
+}
+```
 
 ## Tip
 To compare the heights of Stephen Curry and Tony Parker, you'll first need to convert both measurements to the same unit.

@@ -9,13 +9,15 @@ Please refer to the requirements on the platform you subscribed to.
 ## Template
 If you don't know where to start:
 
-    public class SharingTheSweets {
-        public static void main(String[] args) {
-            System.out.println(candiesForEach);
-            System.out.println(candiesForTheTeacher);
-            System.out.println(candiesForEachIfIHadAKnife);
-        }
+```java
+public class SharingTheSweets {
+    public static void main(String[] args) {
+        System.out.println(candiesForEach);
+        System.out.println(candiesForTheTeacher);
+        System.out.println(candiesForEachIfIHadAKnife);
     }
+}
+```
 
 ## Tip
 Use whole division to find out how many candies each student will get.

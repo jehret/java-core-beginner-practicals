@@ -9,26 +9,28 @@ Please refer to the requirements on the platform you subscribed to.
 ## Template
 If you don't know where to start:
 
-    public class TenantsAndApartments {
+```java
+public class TenantsAndApartments {
 
-        public static void main(String[] args) {
+    public static void main(String[] args) {
 
-            //Apartment
-            int area = 100;
-            int roomsNb = 3;
-            int rent = 700;
-            boolean equippedKitchen = false;
-            boolean balcony = false;
-            boolean parking = true;
+        //Apartment
+        int area = 100;
+        int roomsNb = 3;
+        int rent = 700;
+        boolean equippedKitchen = false;
+        boolean balcony = false;
+        boolean parking = true;
 
-            //Tenant's application
-            int monthlyNetSalary = 1000;
-            boolean permanentContract = false;
-            boolean guarantor = true;
-            int guarantorSalary = 3000;
+        //Tenant's application
+        int monthlyNetSalary = 1000;
+        boolean permanentContract = false;
+        boolean guarantor = true;
+        int guarantorSalary = 3000;
 
-        }
     }
+}
+```
 
 ## Tip
 To solve this exercise, you'll need to use conditional statements (if-else) to evaluate multiple criteria for both the apartment and the tenant.
