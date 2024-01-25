@@ -9,6 +9,7 @@ Veuillez vous référer au sujet publié sur la plateforme de votre abonnement.
 ## Modèle
 Si vous ne savez pas par où commencer :
 
+```java
     public class LocatairesEtAppartements {
     
        public static void main(String[] args) {
@@ -28,6 +29,7 @@ Si vous ne savez pas par où commencer :
            int salaireGarant = 3000;
        }
    }
+```
 
 ## Astuce
 Pour résoudre cet exercice, vous devrez utiliser des instructions conditionnelles (`if`-`else`) afin d'évaluer plusieurs critères pour l'appartement et le locataire.

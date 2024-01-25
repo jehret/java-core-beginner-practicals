@@ -9,6 +9,7 @@ Veuillez vous référer au sujet publié sur la plateforme de votre abonnement.
 ## Modèle
 Si vous ne savez pas par où commencer :
 
+```java
     public class PartageonsLesBonbons {
         public static void main(String[] args) {
             System.out.println(bonbonsPourChacun);
@@ -16,6 +17,7 @@ Si vous ne savez pas par où commencer :
             System.out.println(bonbonsPourChacunSiJAvaisUnCouteau);
         }
     }
+```
 
 ## Astuce
 Utilisez la division entière pour déterminer le nombre de bonbons que chaque élève recevra.

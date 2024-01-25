@@ -9,11 +9,13 @@ Veuillez vous référer au sujet publié sur la plateforme de votre abonnement.
 ## Modèle
 Si vous ne savez pas par où commencer :
 
+```java
     public class Vertical {
         public static void main(String[] args) {
             lettre='';
         }
     }
+```
 
 ## Astuce
 Pour écrire à la verticale, vous pouvez écrire un charactère par ligne.

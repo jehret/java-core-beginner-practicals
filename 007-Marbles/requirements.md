@@ -9,11 +9,13 @@ Veuillez vous référer au sujet publié sur la plateforme de votre abonnement.
 ## Modèle
 Si vous ne savez pas par où commencer :
 
-    public class Billes {
-        public static void main(String[] args) {
-            
-        }
+```java
+public class Billes {
+    public static void main(String[] args) {
+        
     }
+}
+```
 
 ## Astuce
 Pour résoudre cet exercice, vous devrez utiliser une seule variable entière pour garder une trace du nombre de billes que Louis possède.
