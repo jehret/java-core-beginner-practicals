@@ -14,7 +14,7 @@ Après démarrage de votre programme, l’utilisateur pourra entrer le nom d’u
 
 “Je suis X fils/fille de Y [et Z]” (Il est rare que Z soit défini, mais prévoyez le tout de même)
 
-Si vous n’aide pas inspiré par la généalogie des nains, vous pouvez utilisez celle de Frodo ou de Sam :
+Si vous n’êtes pas inspiré par la généalogie des nains, vous pouvez utilisez celle de Frodo ou de Sam :
 [Frodo](resources/frodo.jpg)
 [Sam](resources/sam.jpg)
 
