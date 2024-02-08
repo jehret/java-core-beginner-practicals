@@ -1,17 +1,17 @@
 public class DistributeurDeBoissons {
 
     public static void main(String[] args) {
-        
+
         float prixBoisson=2.5f;
         float montantIntroduit=10.0f;
-        
+
         float restantARendre=montantIntroduit-prixBoisson;
-        
+
         int nbPieces2Rendues=0;
         int nbPieces1Rendues=0;
         int nbPieces50Rendues=0;
         int nbPieces20Rendues=0;
-        
+
         while (restantARendre!=0f){
             if (restantARendre>=2){
                 nbPieces2Rendues=nbPieces2Rendues+1;
@@ -38,7 +38,10 @@ public class DistributeurDeBoissons {
         System.out.println("Le nombre de pièces de 1 Euro rendues est de : "+nbPieces1Rendues);
         System.out.println("Le nombre de pièces de 0.50 Euros rendues est de : "+nbPieces50Rendues);
         System.out.println("Le nombre de pièces de 0.20 Euros rendues est de : "+nbPieces20Rendues);
-        
+        System.out.println("Le nombre de pièces de 0.50 Euro rendues est de : "+nbPieces50Rendues);
+        System.out.println("Le nombre de pièces de 0.20 Euro rendues est de : "+nbPieces20Rendues);
+
     }
-    
+
 }
+
